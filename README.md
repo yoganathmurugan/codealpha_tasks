@@ -403,47 +403,12 @@ pip install -r requirements.txt
 
 ---
 
-# GitHub Submission Steps
-
-Follow this workflow:
-
-```bash
-git init
-git add .
-git commit -m "Add CodeAlpha machine learning tasks"
-git branch -M main
-git remote add origin https://github.com/your-username/CodeAlpha_Machine_Learning_Tasks.git
-git push -u origin main
-```
-
 If the remote already has files and push is rejected:
 
 ```bash
 git pull origin main --rebase
 git push -u origin main
 ```
-
----
-
-# LinkedIn Post Format
-
-```txt
-I am happy to share that I have completed my Machine Learning internship tasks at CodeAlpha.
-
-Projects completed:
-1. Credit Scoring Model
-2. Emotion Recognition from Speech
-3. Handwritten Character Recognition
-4. Disease Prediction from Medical Data
-
-These projects helped me improve my skills in Python, Machine Learning, Deep Learning, Data Preprocessing, Model Evaluation, and real-world AI application development.
-
-GitHub Repository: <your-github-link>
-
-#CodeAlpha #MachineLearning #Python #ArtificialIntelligence #Internship #DeepLearning
-```
-
----
 
 # Skills Learned
 
@@ -456,17 +421,7 @@ GitHub Repository: <your-github-link>
 - Image classification
 - Medical data classification
 - Model evaluation
-- Git and GitHub project submission
-
----
-
-# Author
-
-**M Yoganath**  
-B.Tech Artificial Intelligence and Data Science  
-Machine Learning Intern - CodeAlpha
-
----
+- Git and GitHub project submission 
 
 # Acknowledgement
 
