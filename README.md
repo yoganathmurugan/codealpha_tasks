@@ -427,8 +427,6 @@ git push -u origin main
 
 I would like to thank **CodeAlpha** for providing this internship opportunity and practical machine learning tasks. These projects helped me gain hands-on experience in building machine learning and deep learning models for real-world use cases.
 
----
-
 # License
 
 This project is created for educational and internship submission purposes.
